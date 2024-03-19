@@ -5,7 +5,7 @@ public class Exercicio06 {
 
         Scanner read = new Scanner(System.in);
 
-        int qnt = 2;
+        int qnt = 5;
         double[] notas = new double[qnt+1]; // parte de cima da divisão
         notas[qnt] = 0;
         double[] pesos = new double[qnt+1]; // parte de baixo da divisão
