@@ -37,8 +37,11 @@ public class Programa {
         // Exercicio12 exercicio12 = new Exercicio12();
         // exercicio12.execute();
 
-        Exercicio13 exercicio13 = new Exercicio13();
-        exercicio13.execute();
+        // Exercicio13 exercicio13 = new Exercicio13();
+        // exercicio13.execute();
+
+        Exercicio14 exercicio14 = new Exercicio14();
+        exercicio14.execute();
 
     }
 }
