@@ -22,8 +22,11 @@ public class Programa {
         // Exercicio07 exercicio07 = new Exercicio07();
         // exercicio07.execute();
 
-        Exercicio08 exercicio08 = new Exercicio08();
-        exercicio08.execute();
+        // Exercicio08 exercicio08 = new Exercicio08();
+        // exercicio08.execute();
+
+        Exercicio09 exercicio09 = new Exercicio09();
+        exercicio09.execute();
 
     }
 }
